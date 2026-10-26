@@ -1,6 +1,6 @@
 ## Hola, soy Leandro 👋
 
-Full stack developer en [Lutvia](https://lutvia.net), una agencia creativa de Córdoba 🇦🇷. Hago que los proyectos web salgan, funcionen y se puedan mantener, y antes de escribir una línea me pregunto para quién es.
+Full stack developer en [Lutvia](https://lutvia.net), una agencia creativa de Córdoba, Argentina. Hago que los proyectos web salgan, funcionen y se puedan mantener, y antes de escribir una línea me pregunto para quién es.
 
 ### 🛠️ En qué ando
 
