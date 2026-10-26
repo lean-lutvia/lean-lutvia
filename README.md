@@ -1,23 +1,22 @@
-### Leandro Doliri · Full Stack Developer
+## Hola, soy Leandro 👋
 
-Desarrollador full stack en [Lutvia](https://lutvia.net), una agencia creativa de Córdoba, Argentina. Me ocupo de que los proyectos web salgan, funcionen y se puedan mantener: desde entender qué necesita quien los va a usar hasta el código, el servidor y la documentación.
+Full stack developer en [Lutvia](https://lutvia.net), una agencia creativa de Córdoba 🇦🇷. Hago que los proyectos web salgan, funcionen y se puedan mantener, y antes de escribir una línea me pregunto para quién es.
 
-**En qué trabajo**
+### 🛠️ En qué ando
 
-- Sitio de la Cooperativa Guillermo Lehmann en Payload CMS + Next.js, con cotizaciones de cereales y hacienda en vivo.
-- LOKAL: programa de fidelización, consultorio veterinario online y buscador de más de 150 puntos de venta.
-- AJ Te Invita: plataforma de invitaciones web para eventos en Laravel + Filament.
-- Sitios del sector financiero: el ecosistema del Grupo Firenze y sociedades de bolsa reguladas por la CNV.
-- Más de 70 sitios WordPress en cartera, con mantenimiento mensual automatizado con agentes de IA.
-- Reestructuración y migración del sistema interno de gestión de clientes de la agencia (phpBB → NodeBB).
+- 🌾 **Cooperativa Lehmann**: sitio nuevo en Payload CMS + Next.js, con cotizaciones de granos y hacienda en vivo.
+- 🐶 **LOKAL**: fidelización con tutores, embajadores y pet shops, consultorio veterinario online y más de 150 puntos de venta para encontrar.
+- 💌 **AJ Te Invita**: plataforma de invitaciones web para eventos, hecha en Laravel + Filament.
+- 💳 **Sector financiero**: el ecosistema del Grupo Firenze y sitios de sociedades de bolsa reguladas por la CNV.
+- 🤖 **Más de 70 sitios WordPress** en cartera, con el mantenimiento mensual en manos de agentes de IA.
+- 🗂️ **El sistema interno de la agencia**: lo migré de phpBB a NodeBB sin perder ni uno de sus casi 84.000 mensajes.
 
-**Stack**
+### 🧰 Con qué
 
-Astro · Next.js · React · TypeScript · Tailwind CSS · Laravel · PHP · Node.js · PostgreSQL · MySQL · WordPress · Docker · Coolify
+`Astro` `Next.js` `React` `TypeScript` `Tailwind` `Laravel` `PHP` `Node.js` `PostgreSQL` `MySQL` `WordPress` `Docker` `Coolify`
 
-**Público**
+### 🎧 Y además
 
-- [POSALANA](https://github.com/LUTVIA-DEV/posalana): app interna que sortea con dados las tareas de la cocina (Astro + SQLite).
-- [starter-astro](https://github.com/LUTVIA-DEV/starter-astro): base para sitios estáticos con Astro + Tailwind.
+Cuando apago la compu, diseño y opero sonido para teatro y danza. De ahí traigo la obsesión por el detalle y por llegar a tiempo al estreno.
 
-También trabajo freelance, en remoto. [LinkedIn](https://www.linkedin.com/in/leandro-doliri/)
+📫 Disponible para proyectos freelance, también en remoto → [LinkedIn](https://www.linkedin.com/in/leandro-doliri/)
